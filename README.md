@@ -4,3 +4,4 @@ roadmap:
 
 todo:
 develop frontend
+make code better - looks really ugly
