@@ -1,7 +1,7 @@
 roadmap:
-- completed cli table with basic stats (ppg, apg, rpg, 3pt, fg)
+\n- completed cli table with basic stats (ppg, apg, rpg, 3pt, fg)
 
 
 todo:
 develop frontend
-make code better - looks really ugly
+\nmake code better - looks really ugly
